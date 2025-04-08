@@ -5,7 +5,7 @@ function Header() {
         <>
             <nav>
                 <div className="logo">
-                    <img src="src/assets/images/LOGO SAUVER DES VIES copy.jpg" alt="Logo de votre site" />
+                    <img src="src/assets/LOGO_SAUVER_DES_VIES.jpg" alt="Logo de votre site" />
                 </div>
                 <ul className="menu">
                     <li><a href="/">Accueil</a></li>
@@ -19,3 +19,4 @@ function Header() {
 }
 
 export default Header
+
